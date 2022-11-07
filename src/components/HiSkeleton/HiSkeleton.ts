@@ -1,0 +1,1 @@
+export type SkeletonType = 'text' | 'image' | 'h1' | 'h3' | 'button' | 'circle'
