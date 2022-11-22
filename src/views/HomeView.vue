@@ -74,7 +74,7 @@ setInterval(() => {
       transform: scale(1.3);
     }
     100% {
-      transform: scale(0.8);
+      transform: scale(1.1);
     }
   }
 }

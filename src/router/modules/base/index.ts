@@ -56,6 +56,12 @@ const routes: Array<RouteItem> = [
     component: () => import('@/views/SkeletonView.vue')
   },
   {
+    path: '/vertifyView',
+    name: 'vertifyView',
+    zhName: '滑动验证',
+    component: () => import('@/views/VertifyView.vue')
+  },
+  {
     path: '/timeLineGradient',
     name: 'timeLineGradient',
     zhName: '渐变时间线',
